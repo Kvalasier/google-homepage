@@ -1,0 +1,128 @@
+#logo {
+  margin-top: 150px;
+  margin-left: 620px;
+}
+form {
+  margin-left: 500px;
+  margin-top: 20px;
+}
+input {
+  width: 520px;
+  height: 40px;
+  border-radius: 5mm;
+  background-image: url(https://icon-icons.com/downloadimage.php?id=79893&root=1129/PNG/32/&file=searchmagnifierinterfacesymbol1_79893.png);
+  background-repeat: no-repeat;
+  background-position: 7px 10px;
+  background-size: 15px;
+  padding-left: 30px;
+}
+#gsearch {
+  margin-left: 120px;
+  margin-top: 20px;
+  width: 125px;
+  height: 35px;
+  font-size: 15px;
+  font-family: Arial, sans-serif;
+}
+#lucky {
+  margin-left: 10px;
+  margin-top: 20px;
+  width: 150px;
+  height: 35px;
+  font-size: 15px;
+  font-family: Arial, sans-serif;
+}
+p {
+  margin-top: 35px;
+  margin-left: -35px;
+}
+.blue-text {
+  font-size: 15px;
+  margin: 3px;
+  color: darkblue;
+}
+#header {
+  margin-left: 1280px;
+  margin-top: 20px;
+  list-style-type: none;
+}
+li {
+  display: inline;
+  margin: 10px;
+}
+#big-button {
+  background-color: rgb(0, 128, 255);
+  width: 80px;
+  height: 30px;
+}
+#sign-in {
+  color: white;
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+}
+#images {
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+  font-family: Arial, sans-serif;
+}
+#gmail {
+  color: black;
+  text-decoration: none;
+  font-size: 15px;
+  font-family: Arial, sans-serif;
+}
+#india {
+  margin-left: -500px;
+  margin-top: 200px;
+  background-color: rgb(242, 242, 242);
+  height: 15px;
+  padding: 10px 25px;
+  font-size: 17px;
+  color: rgb(140, 140, 140);
+  font-family: Arial, sans-serif;
+}
+#footer {
+  margin-left: -500px;
+  background-color: rgb(242, 242, 242);
+  height: 15px;
+  padding: 10px 30px;
+  font-size: 17px;
+  padding: 10px 10px;
+}
+#advert {
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  text-decoration: none;
+}
+#business {
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  text-decoration: none;
+}
+#about {
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  text-decoration: none;
+}
+#hsw {
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  text-decoration: none;
+}
+#privacy {
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  text-decoration: none;
+  margin-left: 910px;
+}
+#terms {
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  text-decoration: none;
+}
+#settings {
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  text-decoration: none;
+}

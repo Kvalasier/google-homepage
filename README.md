@@ -1,0 +1,1 @@
+Basic copy of the Google homepage, made using some hacky and rudimentary HTML/CSS. Part of The Odin Project curriculum.
